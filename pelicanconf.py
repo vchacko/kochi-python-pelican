@@ -28,13 +28,14 @@ SOCIAL = (
     ('group', 'http://www.meetup.com/kochi-python/'),
     ('github', 'https://github.com/kochi-python/'),
     ('twitter-square', 'https://twitter.com/kochi_python'),
-    ('facebook', 'https://twitter.com/kochi_python'),
+    ('facebook', 'https://www.facebook.com/groups/kochi-python'),
 )
 # SOCIAL = (('You can add links in your config file', '#'),
 # ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
-
+DISQUS_SITENAME = 'kochipython'
+GOOGLE_ANALYTICS = 'UA-56551965-1'
 # Uncomment following line if you want document-relative URLs when developing
 
 THEME = "themes/kochi-python"
