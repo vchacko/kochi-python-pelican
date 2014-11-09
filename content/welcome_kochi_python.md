@@ -3,10 +3,11 @@ Date: 2014-10-07 10:00
 Category: Meetup
 Tags: python, meetup 
 Author: Jasim Muhammed
-Email: jasimmk@yahoo.com  
-Summary: Python user group at Kochi(Cochin), Kerala. Created to focus colloboration and expansion of python development.
+Email: jasimmk@yahoo.com
+about_author:pythonista • UX addict • strict monotheist • cloud admin • family guy • write once in a blue moon • <a href="http://jasimmk.ninja">jasimmk.ninja</a>
+Summary: Python user group at Kochi(Cochin), Kerala. It has been created to focus colloboration and expansion of python development.
 
-Python user group at Kochi(Cochin), Kerala. Created to focus colloboration and expansion of python development. We see programming as 
+Python user group at Kochi(Cochin), Kerala. It has been created to focus colloboration and expansion of python development. Simply saying it's a group of people who love to read, write and speak Python!
 
 
 ```
@@ -32,4 +33,6 @@ Namespaces are one honking great idea -- let's do more of those!
 
 > Zen of python
 ```
+
+Come, Join hands and get illuminated.
     

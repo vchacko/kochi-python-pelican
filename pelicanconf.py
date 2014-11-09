@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-#COVER_IMG = https://pbs.twimg.com/profile_background_images/483590998014980096/T1MRguut.jpeg"
+# COVER_IMG = https://pbs.twimg.com/profile_background_images/483590998014980096/T1MRguut.jpeg"
 COVER_BG_COLOR = "#2b5b84"
 COVER_IMG = "linear-gradient(#1e415e 10%, #2b5b84 90%)"
 LOGO = "/theme/img/python-logo.png"
@@ -39,3 +39,5 @@ DEFAULT_PAGINATION = 10
 
 THEME = "themes/kochi-python"
 RELATIVE_URLS = True
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['gravatar']

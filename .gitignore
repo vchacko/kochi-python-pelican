@@ -15,7 +15,8 @@ Thumbs.db
 # 'python setup.py develop'
 *.egg-info
 *.pid 
- 
+*.pyc
+*.pyo 
  
 # Editors & IDE
  
