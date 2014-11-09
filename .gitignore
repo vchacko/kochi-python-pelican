@@ -1,0 +1,63 @@
+# Boilerplate for .gitignore, Ignores unnecessary file extension/folders for python web development
+ 
+# OS Stuff
+ 
+ 
+.DS_Store
+Thumbs.db
+.sass-cache
+*.*~
+*.bak
+*.coverage
+ 
+# Python Files
+*.py[cod~]
+# 'python setup.py develop'
+*.egg-info
+*.pid 
+ 
+ 
+# Editors & IDE
+ 
+# Emacs
+*~
+\#*#
+.#*
+ 
+# Vim swap
+*.swp
+ 
+# PyCharm files
+.idea
+ 
+# Sublime
+*.sublime-project
+*.sublime-workspace
+ 
+ 
+# Test and Build files
+ 
+# nose, coverage
+dist/
+.coverage
+coverage.xml
+coverage_report/
+nosetests.xml
+pylint.txt
+ 
+# Ignore project files
+[Bb]uild/
+.settings/
+.project
+.pydevproject
+.conflict
+ 
+# node
+node_modules/
+bower/
+ 
+# Logs
+*.log
+
+# project related files
+docs/html/
