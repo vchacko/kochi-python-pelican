@@ -25,9 +25,9 @@ LOGO = "/theme/img/python-logo.png"
 
 # Social widget
 SOCIAL = (
-    ('group', 'http://www.meetup.com/kochi-python/'),
-    ('github', 'https://github.com/kochi-python/'),
-    ('twitter-square', 'https://twitter.com/kochi_python'),
+    ('group', 'http://www.meetup.com/KochiPython/'),
+    ('github', 'https://github.com/KochiPython/'),
+    ('twitter-square', 'https://twitter.com/KochiPython'),
     ('facebook', 'https://www.facebook.com/groups/kochi-python'),
 )
 # SOCIAL = (('You can add links in your config file', '#'),
