@@ -1,9 +1,9 @@
 [submodule "output"]
 	path = output
-	url = git@github.com:kochi-python/kochi-python.github.io.git
+	url = git@github.com:KochiPython/kochi-python.github.io.git
 [submodule "themes/kochi-python"]
 	path = themes/kochi-python
-	url = git@github.com:jasimmk/kochi-python-pelican-theme.git
+	url = git@github.com:KochiPython/kochi-python-pelican-theme.git
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/getpelican/pelican-plugins
