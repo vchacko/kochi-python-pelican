@@ -4,7 +4,7 @@ Category: Meetup
 Tags: python, meetup 
 Author: Joju Rajan
 Email: jojurajan@gmail.com
-about_author: Experimental hacker with an affinity to Python • Book lover • Foodie
+about_author: Experimental hacker with an affinity to Python • Book lover • Foodie• <a href="http://jrajan.in" target="_blank">jrajan.in</a>
 Summary: Meetup for organizing a Python meetup. Venue - Festa, Vazhakkala.
 
 A date, a venue, an agenda. Things required to kick off any meetup. So to decide these, the organization team behind Kochi Python had to meet up first. ;)

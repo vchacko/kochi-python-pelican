@@ -4,7 +4,7 @@ Category: Meetup
 Tags: python, meetup 
 Author: Jasim Muhammed
 Email: jasimmk@yahoo.com
-about_author:pythonista • UX addict • strict monotheist • cloud admin • family guy • write once in a blue moon • <a href="http://jasimmk.ninja">jasimmk.ninja</a>
+about_author:pythonista • UX addict • strict monotheist • cloud admin • family guy • write once in a blue moon • <a href="http://jasimmk.ninja" target="_blank">jasimmk.ninja</a>
 Summary: Python user group at Kochi(Cochin), Kerala. It has been created to focus colloboration and expansion of python development.
 
 Python user group at Kochi(Cochin), Kerala. It has been created to focus colloboration and expansion of python development. Simply saying it's a group of people who love to read, write and speak Python!
