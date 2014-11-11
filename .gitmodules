@@ -1,6 +1,6 @@
 [submodule "output"]
 	path = output
-	url = git@github.com:KochiPython/kochi-python.github.io.git
+	url = git@github.com:KochiPython/KochiPython.github.io.git
 [submodule "themes/kochi-python"]
 	path = themes/kochi-python
 	url = git@github.com:KochiPython/kochi-python-pelican-theme.git

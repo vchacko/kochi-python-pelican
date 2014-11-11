@@ -10,7 +10,7 @@ Summary: Meetup for organizing a Python meetup. Venue - Festa, Vazhakkala.
 A date, a venue, an agenda. Things required to kick off any meetup. So to decide these, the organization team behind Kochi Python had to meet up first. ;)
 
 
-Venue: <a href="http://www.festagrills.com/in/">Festa, Vazhakkala</a><br />
+Venue: <a href="http://www.festagrills.com/in/" target="_blank">Festa, Vazhakkala</a><br />
 Date: 8th of November, 2014<br />
 Interval: 1 hr, tentatively<br />
 
@@ -30,7 +30,7 @@ The next thing was the meetup sessions. We decided to allow 2 medium-length sess
 Other take-aways from the meeting included
 
 - Facebook group <a href="https://www.facebook.com/groups/kochi.python">Kochi Python Meetup</a>
-- Tweeting from <a href="https://twitter.com/kochi_python" target="_blank">Kochi Python</a>
+- Tweeting from <a href="https://twitter.com/KochiPython" target="_blank">Kochi Python</a>
 - the smiling photo posted above.
 
 To sum it up,
