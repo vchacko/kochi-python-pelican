@@ -1,7 +1,7 @@
 # Boilerplate for .gitignore, Ignores unnecessary file extension/folders for python web development
  
 # OS Stuff
- 
+.pid 
  
 .DS_Store
 Thumbs.db
